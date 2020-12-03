@@ -214,5 +214,6 @@ dmypy.json
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
+*.pem
 
 # End of https://www.toptal.com/developers/gitignore/api/vscode,python,flask
